@@ -1,4 +1,8 @@
-# Shortened-Molecular-Docking-Analysis-Report
+# Shortened-Molecular-Docking-Analysis-Report <img width="1080" height="1363" alt="20260521_144922" src="https://github.com/user-attachments/assets/14943561-706e-4fc7-9238-1f7fa51397ae" />
+<img width="1073" height="643" alt="20260521_144949" src="https://github.com/user-attachments/assets/9e5638f6-359a-4763-bbf3-ff58fdc3ca46" />
+<img width="1067" height="1220" alt="20260521_145338" src="https://github.com/user-attachments/assets/20b43ff6-e580-453e-b405-3236a95cc6be" />
+<img width="1080" height="864" alt="20260521_145412" src="https://github.com/user-attachments/assets/e0cf4913-1d5b-42a0-8c64-3a185ff2c505" />
+
 Molecular docking analysis report for cancer research
 ​Pre-eminent computational tools were utilized to evaluate the binding profile of the synthesized ligand within the receptor's active site.
 ​The 3D binding conformation (Figure 1) elucidates a highly optimized spatial orientation and structural fit inside the pocket.
